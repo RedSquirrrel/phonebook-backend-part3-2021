@@ -2,6 +2,8 @@
 
 [Live view for phonebook backend part](https://phonebook-backend-redsquirrrel.herokuapp.com/api/persons)
 
+[Live view for phonebook frontend part](https://phonebook-backend-redsquirrrel.herokuapp.com/)
+
 ---
 
 ---
