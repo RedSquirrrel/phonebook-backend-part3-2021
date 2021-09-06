@@ -15,8 +15,14 @@
 - 3.5: Phonebook backend step5
 - 3.6: Phonebook backend step6
 
+---
+
 - 3.7: Phonebook backend step7
 - 3.8\*: Phonebook backend step8
 - 3.9 phonebook backend step9
 - 3.10 phonebook backend step10
 - 3.11 phonebook full stack
+
+---
+
+- 3.12: Command-line database
