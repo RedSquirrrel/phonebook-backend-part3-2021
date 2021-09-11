@@ -31,6 +31,7 @@ if (process.argv.length === 5) {
 
 if (process.argv.length === 3) {
   Person.find({}).then(persons => {
+    console.log('phonebook: ');
     persons.forEach(person => {
       console.log(person.name, person.number);
     });

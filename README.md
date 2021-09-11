@@ -31,3 +31,13 @@
 
 - 3.13: Phonebook database, step1
 - 3.14: Phonebook database, step2
+
+---
+
+- 3.15: Phonebook database, step3
+- 3.16: Phonebook database, step4
+- 3.17\*: Phonebook database, step5
+- 3.18\*: Phonebook database step6
+- 3.19: Phonebook database, step7
+- 3.20\*: Phonebook database, step8
+- 3.21 Deploying the database backend to production
