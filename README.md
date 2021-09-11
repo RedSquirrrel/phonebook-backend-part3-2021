@@ -1,8 +1,14 @@
 # phonebook-backend-part3-2021
 
-[Live view for phonebook backend part](https://phonebook-backend-redsquirrrel.herokuapp.com/api/persons)
+[Live view **backend: /api/persons**](https://phonebook-backend-redsquirrrel.herokuapp.com/api/persons)
 
-[Live view for phonebook frontend part](https://phonebook-backend-redsquirrrel.herokuapp.com/)
+[Live view **frontend**](https://phonebook-backend-redsquirrrel.herokuapp.com/)
+
+[Live view **/info**](https://phonebook-backend-redsquirrrel.herokuapp.com/info)
+
+[Live view **individual phonebook entry**](https://phonebook-backend-redsquirrrel.herokuapp.com/api/persons/61375f862f6cc8bc531b647e)
+
+[Live view **error: "malformatted id"**](https://phonebook-backend-redsquirrrel.herokuapp.com/api/persons/61375f862f6cc8bc531b647)
 
 ---
 
